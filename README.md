@@ -8,8 +8,8 @@
 <div align="center">
 
 ```
-█▄▄ █ █▀ █░█ █░█   █▄▀ █░█ █▀▀▀  █▄░█  ▀
-█▄█ █ ▄█ █▀█ █▄█   █░█ █▄█ █▄▄░  █░▀█  ▄
+█▀▄ ▄▀█ ▀█▀ ▄▀█   █▀▄ █▀█ █ █░░░█ █▀▀ █▄░█
+█▄▀ █▀█ ░█░ █▀█   █▄▀ █▀▄ █ ▀▄▀▄▀ ██▄ █░▀█
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+an+AI+WhatsApp+agent+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
@@ -130,12 +130,6 @@ print(bishu.philosophy())
 │  flagged a 14% post-festival revenue dip in the South.           │
 └──────────────────────────────────────────────────────────────────┘
 ```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bishu1104&repo=Vera&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="48%"/>
-
-</div>
 
 ---
 
