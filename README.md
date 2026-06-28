@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Bishwjit%20Kumar&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descAlignY=62&descSize=17&descColor=7ecfff&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Bishwjit%20Kumar&fontSize=52&fontColor=4f46e5&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descAlignY=62&descSize=17&descColor=a5b4fc&stroke=4f46e5&strokeWidth=1" width="100%" alt="Header"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 █▄▀ █▀█ ░█░ █▀█   █▄▀ █▀▄ █ ▀▄▀▄▀ ██▄ █░▀█
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+end+to+end+Analysis+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+an+AI+WhatsApp+agent+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,8 +22,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwjit-kumar-034b88264)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bishu1104)
-[![Location](https://img.shields.io/badge/📍-Delhi_NCR,_India-00d4ff?style=flat-square)](https://github.com/Bishu1104)
-[![Visitors](https://komarev.com/ghpvc/?username=Bishu1104&color=00d4ff&style=flat-square&label=Profile+Views)](https://github.com/Bishu1104)
+[![Location](https://img.shields.io/badge/📍-Delhi_NCR,_India-4f46e5?style=flat-square)](https://github.com/Bishu1104)
+[![Visitors](https://komarev.com/ghpvc/?username=Bishu1104&color=4f46e5&style=flat-square&label=Profile+Views)](https://github.com/Bishu1104)
 
 </div>
 
@@ -137,15 +137,15 @@ print(bishu.philosophy())
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bishu1104&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishu1104&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bishu1104&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4f46e5&icon_color=4f46e5&text_color=c9d1d9&ring_color=4f46e5"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishu1104&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4f46e5&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishu1104&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=7ecfff&dates=555" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishu1104&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishu1104&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4f46e5&ring=4f46e5&fire=ff6b6b&currStreakLabel=4f46e5&sideNums=c9d1d9&sideLabels=a5b4fc&dates=555" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishu1104&theme=github-compact&hide_border=true&bg_color=0d1117&color=4f46e5&line=4f46e5&point=ffffff&area=true&area_color=4f46e5" width="49%"/>
 
 </div>
 
@@ -163,13 +163,13 @@ print(bishu.philosophy())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:0d1b2a,100:0a0a0f&height=100&section=footer&text=&fontSize=0&fontColor=00d4ff" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:0d1b2a,100:0a0a0f&height=100&section=footer&text=&fontSize=0&fontColor=4f46e5" width="100%" alt="Footer"/>
 
 ```python
 print("Thanks for stopping by. Let's turn some data into something useful. 🚀")
 ```
 
-[![forthebadge](https://img.shields.io/badge/Built_with-Python_%26_Curiosity-00d4ff?style=flat-square)](https://github.com/Bishu1104)
+[![forthebadge](https://img.shields.io/badge/Built_with-Python_%26_Curiosity-4f46e5?style=flat-square)](https://github.com/Bishu1104)
 [![forthebadge](https://img.shields.io/badge/Powered_by-Chai_%26_Spreadsheets-brown?style=flat-square)](https://github.com/Bishu1104)
 [![forthebadge](https://img.shields.io/badge/Mode-Always_Learning-success?style=flat-square)](https://github.com/Bishu1104)
 
