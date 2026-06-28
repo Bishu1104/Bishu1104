@@ -12,7 +12,7 @@
 █▄▀ █▀█ ░█░ █▀█   █▄▀ █▀▄ █ ▀▄▀▄▀ ██▄ █░▀█
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=c084fc&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+an+AI+WhatsApp+agent+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=c084fc&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+end-+end+Analysis+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
 
 </div>
 
