@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Bishwjit%20Kumar&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Biotechnologist%20%7C%20AI%20Builder&descAlignY=62&descSize=17&descColor=7ecfff&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Bishwjit%20Kumar&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descAlignY=62&descSize=17&descColor=7ecfff&stroke=00d4ff&strokeWidth=1" width="100%" alt="Header"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 █▄█ █ ▄█ █▀█ █▄█   █░█ █▄█ █▄▄░  █░▀█  ▄
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;Biotech+grad+who+learned+to+speak+SQL+🧬;Built+an+AI+WhatsApp+agent+from+scratch+🤖;Data+%2B+Bio+%2B+AI%2C+one+pipeline+at+a+time+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+an+AI+WhatsApp+agent+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,27 +34,24 @@
 ```python
 class BishwjitKumar:
     """
-    Final-year Biotechnology student (NSUT, Delhi) who fell hard
-    for data. Comfortable in a wet lab and a SQL console alike.
+    Data Analyst & BI Developer based in Delhi NCR.
+    Obsessed with the gap between raw data and real decisions.
     """
 
     def __init__(self):
-        self.role        = "Data Analyst × BI Developer × Sometimes a Biotechnologist"
+        self.role        = "Data Analyst × Business Analyst × BI Developer"
         self.location    = "Delhi NCR, India 🇮🇳"
-        self.education   = "B.Tech Biotechnology, NSUT Dwarka (Class of 2026)"
         self.focus       = [
             "Data Analytics & Business Intelligence",
-            "Dashboarding & Storytelling with Data",
+            "Dashboarding & Data Storytelling",
+            "Power Platform Automation",
             "AI/Automation tools built for real workflows",
-            "Healthcare & Bio data (where the two worlds meet)",
         ]
-        self.currently   = "Interviewing, building, and sharpening SQL + Power Platform skills"
         self.stack       = {
             "languages" : ["Python", "SQL", "JavaScript"],
             "analytics" : ["Power BI", "Tableau", "Excel", "DAX"],
             "automation": ["Power Apps", "Power Automate", "FastAPI"],
             "ai_tools"  : ["Gemini API", "Prompt Engineering", "LLM Integration"],
-            "bio_lab"   : ["Microalgae Culturing", "ALE Experiments", "Biochemical Assays"],
             "tools"     : ["Git", "VS Code", "Google Colab", "Railway"],
         }
 
@@ -68,7 +65,7 @@ class BishwjitKumar:
         while True:
             self.analyze_data()
             self.ship_something()
-            self.learn_from_the_interview_feedback()  # the real MVP
+            self.iterate_on_feedback()  # the real MVP
 
 bishu = BishwjitKumar()
 print(bishu.philosophy())
@@ -103,16 +100,6 @@ print(bishu.philosophy())
 
 </div>
 
-### 🧬 Biotechnology & Research
-
-<div align="center">
-
-![Microbiology](https://img.shields.io/badge/Microalgae_Research-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white)
-![Lab Techniques](https://img.shields.io/badge/Biochemical_Profiling-00838F?style=for-the-badge&logo=testcafe&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E9751E?style=for-the-badge&logo=mathworks&logoColor=white)
-
-</div>
-
 ### 🛠️ Tools
 
 <div align="center">
@@ -130,17 +117,17 @@ print(bishu.philosophy())
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  🤖 Vera — AI WhatsApp Merchant Assistant                        │
-│  FastAPI + Gemini 2.5 Pro, deployed on Railway.                  │
-│  Production-style agent that handles real merchant conversations.│
+│  📦 Inventory Optimization Using Advanced SQL                    │
+│  SQL-based monitoring system — cut stockouts 22%, overstock 18%  │
+│  via schema indexing, joins & dynamic KPI dashboards.            │
 ├──────────────────────────────────────────────────────────────────┤
-│  🏥 Healthcare Readmission Dashboard                              │
-│  Built during my Data Analyst internship at Aakash Healthcare.   │
-│  Power BI dashboard surfacing readmission risk & trends.         │
+│  📊 Readmission Analytics Dashboard                               │
+│  Power BI + DAX dashboard on 70,000+ patient records,             │
+│  surfacing diagnosis cohorts driving 60% of readmissions.        │
 ├──────────────────────────────────────────────────────────────────┤
-│  🧬 Microalgae Thermo-Tolerance Research (NSUT)                  │
-│  Isolation from hot-water springs + ALE experiments under        │
-│  Dr. Shweta Tripathi; biochemical & pigment profiling.           │
+│  📈 Sales Dashboard for Regional Performance                     │
+│  SQL-integrated pricing model across 12 months, 5 regions —      │
+│  flagged a 14% post-festival revenue dip in the South.           │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -170,19 +157,6 @@ print(bishu.philosophy())
 
 ---
 
-## `cat /etc/learning.log`
-
-```
-[ongoing]  ██████████████████░░  SQL — beyond GROUP BY, into window functions
-[ongoing]  █████████████████░░░  Power Platform — Power Apps + Automate
-[ongoing]  ████████████████░░░░  DAX — measures that actually hold up in interviews
-[ongoing]  ███████████████░░░░░  Product thinking — case studies & teardowns
-```
-
-> _"My degree says biotech. My browser history says SQL. Both are true."_
-
----
-
 ## `ssh bishu@connect`
 
 <div align="center">
@@ -192,29 +166,6 @@ print(bishu.philosophy())
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-```
-   Open to: Data Analyst · Business Analyst · BI / Power Platform roles
-   Not open to: "Just enter this spreadsheet" disguised as analytics 😄
-```
-
-</div>
-
----
-
-## `snake --contribution-graph`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Bishu1104/Bishu1104/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-
-</div>
-
----
 
 <div align="center">
 
