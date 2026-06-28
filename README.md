@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:1e293b&height=220&section=header&text=Bishwjit%20Kumar&fontSize=52&fontColor=c084fc&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descAlignY=62&descSize=17&descColor=60a5fa&stroke=c084fc&strokeWidth=1" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f172a,100:1e293b&height=220&section=header&text=Bishwjit%20Kumar&fontSize=52&fontColor=2dd4bf&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descAlignY=62&descSize=17&descColor=5eead4&stroke=2dd4bf&strokeWidth=1" width="100%" alt="Header"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 █▄▀ █▀█ ░█░ █▀█   █▄▀ █▀▄ █ ▀▄▀▄▀ ██▄ █░▀█
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=c084fc&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+Analysis+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=2dd4bf&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Turning+messy+data+into+decisions+📊;SQL+%2B+Power+BI+%2B+Python%2C+daily+driver+📈;Built+an+AI+WhatsApp+agent+from+scratch+🤖;Data+Analytics+%2B+AI%2C+end-to-end+⚡)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,10 +20,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwjit-kumar-034b88264)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bishu1104)
-[![Location](https://img.shields.io/badge/📍-Delhi_NCR,_India-c084fc?style=flat-square)](https://github.com/Bishu1104)
-[![Visitors](https://komarev.com/ghpvc/?username=Bishu1104&color=c084fc&style=flat-square&label=Profile+Views)](https://github.com/Bishu1104)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwjitkumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bishu1104/Bishu1104)
+[![Location](https://img.shields.io/badge/📍-Delhi_NCR,_India-2dd4bf?style=flat-square)](https://github.com/Bishu1104/Bishu1104)
+[![Visitors](https://komarev.com/ghpvc/?username=Bishu1104&color=2dd4bf&style=flat-square&label=Profile+Views)](https://github.com/Bishu1104/Bishu1104)
 
 </div>
 
@@ -96,7 +96,7 @@ print(bishu.philosophy())
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-c084fc?style=for-the-badge&logo=openai&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2dd4bf?style=for-the-badge&logo=openai&logoColor=black)
 
 </div>
 
@@ -137,15 +137,15 @@ print(bishu.philosophy())
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bishu1104&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&ring_color=c084fc"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishu1104&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bishu1104&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishu1104&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishu1104&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=c084fc&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&sideNums=c9d1d9&sideLabels=60a5fa&dates=555" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishu1104&theme=github-compact&hide_border=true&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=c084fc" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishu1104&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=2dd4bf&ring=2dd4bf&fire=ff6b6b&currStreakLabel=2dd4bf&sideNums=c9d1d9&sideLabels=5eead4&dates=555" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishu1104&theme=github-compact&hide_border=true&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf" width="49%"/>
 
 </div>
 
@@ -155,22 +155,22 @@ print(bishu.philosophy())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwjit-kumar-034b88264)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bishu1104)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwjitkumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bishu1104/Bishu1104)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishwjitkumar11@gmail.com)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e293b,50:0f172a,100:020617&height=100&section=footer&text=&fontSize=0&fontColor=c084fc" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e293b,50:0f172a,100:020617&height=100&section=footer&text=&fontSize=0&fontColor=2dd4bf" width="100%" alt="Footer"/>
 
 ```python
 print("Thanks for stopping by. Let's turn some data into something useful. 🚀")
 ```
 
-[![forthebadge](https://img.shields.io/badge/Built_with-Python_%26_Curiosity-c084fc?style=flat-square)](https://github.com/Bishu1104)
-[![forthebadge](https://img.shields.io/badge/Powered_by-Chai_%26_Spreadsheets-brown?style=flat-square)](https://github.com/Bishu1104)
-[![forthebadge](https://img.shields.io/badge/Mode-Always_Learning-success?style=flat-square)](https://github.com/Bishu1104)
+[![forthebadge](https://img.shields.io/badge/Built_with-Python_%26_Curiosity-2dd4bf?style=flat-square)](https://github.com/Bishu1104/Bishu1104)
+[![forthebadge](https://img.shields.io/badge/Powered_by-Chai_%26_Spreadsheets-brown?style=flat-square)](https://github.com/Bishu1104/Bishu1104)
+[![forthebadge](https://img.shields.io/badge/Mode-Always_Learning-success?style=flat-square)](https://github.com/Bishu1104/Bishu1104)
 
 </div>
